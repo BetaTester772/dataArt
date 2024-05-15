@@ -1,0 +1,301 @@
+id,title,tags,level
+1000,A+B,"['implementation', 'arithmetic', 'math']",1
+1001,A-B,"['implementation', 'arithmetic', 'math']",1
+1002,터렛,"['case_work', 'geometry', 'math']",8
+1003,피보나치 함수,['dp'],8
+1004,어린 왕자,"['geometry', 'math']",8
+1008,A/B,"['implementation', 'arithmetic', 'math']",1
+1009,분산처리,"['implementation', 'math']",4
+1010,다리 놓기,"['combinatorics', 'dp', 'math']",6
+1018,체스판 다시 칠하기,['bruteforcing'],7
+1032,명령 프롬프트,"['implementation', 'string']",5
+1037,약수,"['math', 'number_theory']",5
+1065,한수,"['bruteforcing', 'math']",7
+1075,나누기,"['bruteforcing', 'math']",4
+1076,저항,['implementation'],4
+1085,직사각형에서 탈출,"['geometry', 'math']",3
+1110,더하기 사이클,"['implementation', 'math']",5
+1152,단어의 개수,"['implementation', 'string']",4
+1157,단어 공부,"['implementation', 'string']",5
+1181,단어 정렬,"['sorting', 'string']",6
+1193,분수찾기,"['implementation', 'math']",6
+1247,부호,"['arbitrary_precision', 'arithmetic', 'math']",3
+1259,팰린드롬수,"['implementation', 'string']",5
+1260,DFS와 BFS,"['graphs', 'graph_traversal', 'bfs', 'dfs']",9
+1264,모음의 개수,"['implementation', 'string']",2
+1267,핸드폰 요금,"['arithmetic', 'math']",3
+1269,대칭 차집합,"['data_structures', 'hash_set', 'tree_set']",7
+1271,엄청난 부자2,"['arbitrary_precision', 'arithmetic', 'math']",1
+1297,TV 크기,"['pythagoras', 'geometry']",4
+1316,그룹 단어 체커,"['implementation', 'string']",6
+1330,두 수 비교하기,['implementation'],1
+1427,소트인사이드,"['sorting', 'string']",6
+1436,영화감독 숌,['bruteforcing'],6
+1541,잃어버린 괄호,"['greedy', 'math', 'parsing', 'string']",9
+1546,평균,"['arithmetic', 'math']",5
+1620,나는야 포켓몬 마스터 이다솜,"['data_structures', 'hash_set']",7
+1654,랜선 자르기,"['binary_search', 'parametric_search']",9
+1676,팩토리얼 0의 개수,['math'],6
+1712,손익분기점,"['math', 'arithmetic']",4
+1735,분수 합,"['euclidean', 'math', 'number_theory']",8
+1764,듣보잡,"['data_structures', 'hash_set', 'sorting', 'string']",7
+1816,암호 키,"['bruteforcing', 'math', 'number_theory']",5
+1834,나머지와 몫이 같은 수,['math'],5
+1874,스택 수열,"['data_structures', 'stack']",9
+1920,수 찾기,"['binary_search', 'data_structures', 'sorting']",7
+1929,소수 구하기,"['math', 'number_theory', 'primality_test', 'sieve']",8
+1931,회의실 배정,"['greedy', 'sorting']",10
+1934,최소공배수,"['euclidean', 'math', 'number_theory']",5
+1964,"오각형, 오각형, 오각형…",['math'],4
+1966,프린터 큐,"['data_structures', 'implementation', 'queue', 'simulation']",8
+1978,소수 찾기,"['primality_test', 'number_theory', 'math']",4
+2083,럭비 클럽,['implementation'],2
+2108,통계학,"['implementation', 'math', 'sorting']",8
+2163,초콜릿 자르기,"['arithmetic', 'math']",5
+2164,카드2,"['data_structures', 'queue']",7
+2231,분해합,['bruteforcing'],4
+2292,벌집,['math'],4
+2309,일곱 난쟁이,"['bruteforcing', 'sorting']",5
+2338,긴자리 계산,"['arbitrary_precision', 'arithmetic', 'math']",1
+2346,풍선 터뜨리기,"['data_structures', 'deque']",8
+2420,사파리월드,"['implementation', 'arithmetic', 'math']",1
+2438,별 찍기 - 1,['implementation'],1
+2439,별 찍기 - 2,['implementation'],2
+2440,별 찍기 - 3,['implementation'],2
+2444,별 찍기 - 7,['implementation'],3
+2475,검증수,"['implementation', 'arithmetic', 'math']",1
+2480,주사위 세개,"['arithmetic', 'case_work', 'implementation', 'math']",2
+2485,가로수,"['euclidean', 'math', 'number_theory']",7
+2501,약수 구하기,"['bruteforcing', 'math']",3
+2525,오븐 시계,"['arithmetic', 'math']",3
+2530,인공지능 시계,"['arithmetic', 'math']",2
+2557,Hello World,['implementation'],1
+2558,A+B - 2,"['implementation', 'arithmetic', 'math']",1
+2559,수열,"['prefix_sum', 'sliding_window', 'two_pointer']",8
+2562,최댓값,['implementation'],3
+2563,색종이,['implementation'],6
+2566,최댓값,['implementation'],3
+2577,숫자의 개수,"['arithmetic', 'implementation', 'math']",4
+2581,소수,"['primality_test', 'number_theory', 'math']",4
+2587,대표값2,"['arithmetic', 'implementation', 'math', 'sorting']",4
+2588,곱셈,"['arithmetic', 'math']",3
+2606,바이러스,"['graphs', 'graph_traversal', 'bfs', 'dfs']",8
+2609,최대공약수와 최소공배수,"['euclidean', 'math', 'number_theory']",5
+2675,문자열 반복,"['implementation', 'string']",4
+2684,동전 게임,"['implementation', 'string']",5
+2720,세탁소 사장 동혁,"['arithmetic', 'greedy', 'math']",3
+2738,행렬 덧셈,"['arithmetic', 'implementation', 'math']",3
+2739,구구단,"['implementation', 'math']",1
+2741,N 찍기,['implementation'],1
+2742,기찍 N,['implementation'],2
+2743,단어 길이 재기,"['implementation', 'string']",1
+2744,대소문자 바꾸기,"['implementation', 'string']",1
+2745,진법 변환,"['implementation', 'string', 'math']",4
+2748,피보나치 수 2,"['dp', 'math']",5
+2750,수 정렬하기,"['sorting', 'implementation']",4
+2751,수 정렬하기 2,['sorting'],6
+2752,세수정렬,"['implementation', 'sorting']",2
+2753,윤년,"['implementation', 'arithmetic', 'math']",1
+2754,학점계산,"['implementation', 'string']",3
+2775,부녀회장이 될테야,"['dp', 'implementation', 'math']",5
+2798,블랙잭,['bruteforcing'],4
+2839,설탕 배달,"['dp', 'greedy', 'math']",7
+2845,파티가 끝나고 난 뒤,"['implementation', 'arithmetic', 'math']",2
+2869,달팽이는 올라가고 싶다,['math'],5
+2884,알람 시계,"['arithmetic', 'math']",3
+2903,중앙 이동 알고리즘,['math'],3
+2908,상수,"['implementation', 'math']",4
+2920,음계,['implementation'],4
+2941,크로아티아 알파벳,"['implementation', 'string']",6
+3003,"킹, 퀸, 룩, 비숍, 나이트, 폰","['implementation', 'arithmetic', 'math']",1
+3009,네 번째 점,"['geometry', 'implementation']",3
+3046,R2,"['implementation', 'arithmetic', 'math']",2
+3052,나머지,"['arithmetic', 'math']",4
+3053,택시 기하학,"['geometry', 'math']",3
+4101,크냐?,['implementation'],1
+4134,다음 소수,"['bruteforcing', 'math', 'number_theory', 'primality_test']",7
+4153,직각삼각형,"['geometry', 'math', 'pythagoras']",3
+4344,평균은 넘겠지,"['arithmetic', 'math']",5
+4470,줄번호,"['implementation', 'string']",2
+4673,셀프 넘버,"['bruteforcing', 'implementation', 'math']",6
+4779,칸토어 집합,"['divide_and_conquer', 'recursion']",8
+4948,베르트랑 공준,"['math', 'number_theory', 'primality_test', 'sieve']",9
+4949,균형잡힌 세상,"['data_structures', 'stack', 'string']",7
+4999,아!,"['implementation', 'string']",1
+5073,삼각형과 세 변,"['geometry', 'implementation', 'math']",3
+5086,배수와 약수,"['arithmetic', 'math']",3
+5337,웰컴,['implementation'],1
+5338,마이크로소프트 로고,['implementation'],1
+5522,카드 게임,"['arithmetic', 'math']",1
+5524,입실 관리,['string'],2
+5532,방학 숙제,"['arithmetic', 'math']",2
+5554,심부름 가는 길,"['implementation', 'arithmetic', 'math']",2
+5597,과제 안 내신 분..?,['implementation'],3
+5622,다이얼,['implementation'],4
+7287,등록,['implementation'],1
+7568,덩치,"['bruteforcing', 'implementation']",6
+7785,회사에 있는 사람,"['data_structures', 'hash_set']",6
+8370,Plane,"['arithmetic', 'math']",1
+8393,합,"['implementation', 'math']",1
+8958,OX퀴즈,"['implementation', 'string']",4
+9012,괄호,"['data_structures', 'stack', 'string']",7
+9063,대지,"['geometry', 'implementation', 'math']",3
+9086,문자열,"['implementation', 'string']",1
+9095,"1, 2, 3 더하기",['dp'],8
+9498,시험 성적,['implementation'],1
+9506,약수들의 합,"['implementation', 'math', 'number_theory']",5
+10101,삼각형 외우기,"['geometry', 'implementation']",2
+10171,고양이,['implementation'],1
+10172,개,['implementation'],1
+10250,ACM 호텔,"['arithmetic', 'implementation', 'math']",3
+10430,나머지,"['implementation', 'arithmetic', 'math']",1
+10699,오늘 날짜,['implementation'],1
+10718,We love kriii,['implementation'],1
+10773,제로,"['data_structures', 'implementation', 'stack']",7
+10798,세로읽기,"['implementation', 'string']",5
+10807,개수 세기,['implementation'],1
+10808,알파벳 개수,"['implementation', 'string']",2
+10809,알파벳 찾기,"['implementation', 'string']",4
+10810,공 넣기,"['implementation', 'simulation']",3
+10811,바구니 뒤집기,"['implementation', 'simulation']",4
+10813,공 바꾸기,"['implementation', 'simulation']",4
+10814,나이순 정렬,['sorting'],6
+10815,숫자 카드,"['binary_search', 'data_structures', 'hash_set', 'sorting']",6
+10816,숫자 카드 2,"['binary_search', 'data_structures', 'hash_set', 'sorting']",7
+10818,"최소, 최대","['implementation', 'math']",3
+10828,스택,"['data_structures', 'implementation', 'stack']",7
+10845,큐,"['data_structures', 'queue']",7
+10866,덱,"['data_structures', 'deque', 'implementation']",7
+10869,사칙연산,"['implementation', 'arithmetic', 'math']",1
+10870,피보나치 수 5,"['implementation', 'math']",4
+10871,X보다 작은 수,['implementation'],1
+10872,팩토리얼,"['implementation', 'math']",3
+10926,??!,['implementation'],1
+10950,A+B - 3,"['implementation', 'arithmetic', 'math']",1
+10951,A+B - 4,"['implementation', 'arithmetic', 'math']",1
+10952,A+B - 5,"['implementation', 'arithmetic', 'math']",1
+10988,팰린드롬인지 확인하기,"['implementation', 'string']",3
+10989,수 정렬하기 3,['sorting'],5
+10998,A×B,"['implementation', 'arithmetic', 'math']",1
+11005,진법 변환 2,"['implementation', 'math']",5
+11021,A+B - 7,"['implementation', 'arithmetic', 'math']",1
+11022,A+B - 8,"['implementation', 'arithmetic', 'math']",1
+11047,동전 0,['greedy'],7
+11050,이항 계수 1,"['combinatorics', 'implementation', 'math']",5
+11292,키 큰 사람,"['implementation', 'sorting']",6
+11365,!밀비 급일,"['implementation', 'string']",2
+11382,꼬마 정민,"['implementation', 'arithmetic', 'math']",1
+11399,ATM,"['greedy', 'sorting']",7
+11478,서로 다른 부분 문자열의 개수,"['data_structures', 'hash_set', 'string', 'tree_set']",8
+11650,좌표 정렬하기,['sorting'],6
+11651,좌표 정렬하기 2,['sorting'],6
+11653,소인수분해,"['math', 'number_theory', 'primality_test']",5
+11654,아스키 코드,['implementation'],1
+11659,구간 합 구하기 4,['prefix_sum'],8
+11689,"GCD(n, k) = 1","['euler_phi', 'math', 'number_theory']",15
+11718,그대로 출력하기,"['implementation', 'string']",3
+11720,숫자의 합,"['implementation', 'math', 'string']",2
+11729,하노이 탑 이동 순서,['recursion'],11
+11866,요세푸스 문제 0,"['data_structures', 'implementation', 'queue']",6
+11942,고려대는 사랑입니다,['implementation'],1
+11945,뜨거운 붕어빵,"['implementation', 'string']",2
+12789,도키도키 간식드리미,"['data_structures', 'stack']",8
+13241,최소공배수,"['euclidean', 'math', 'number_theory']",6
+13305,주유소,['greedy'],8
+13909,창문 닫기,"['math', 'number_theory']",6
+14215,세 막대,"['geometry', 'implementation', 'math']",3
+14425,문자열 집합,"['data_structures', 'hash_set', 'string', 'tree_set']",7
+14581,팬들에게 둘러싸인 홍준,['implementation'],1
+14645,와이버스 부릉부릉,['implementation'],1
+14652,나는 행복합니다~,"['arithmetic', 'math']",2
+14681,사분면 고르기,"['implementation', 'geometry']",1
+15439,베라의 패션,"['implementation', 'combinatorics', 'math']",2
+15552,빠른 A+B,"['implementation', 'arithmetic', 'math']",2
+15596,정수 N개의 합,"['arithmetic', 'implementation', 'math']",4
+15680,연세대학교,['implementation'],1
+15727,조별과제를 하려는데 조장이 사라졌다,"['arithmetic', 'math']",1
+15829,Hashing,"['hashing', 'implementation', 'string']",4
+15894,수학은 체육과목 입니다,"['arithmetic', 'math']",3
+15964,이상한 기호,"['arithmetic', 'math', 'implementation']",1
+16139,인간-컴퓨터 상호작용,['prefix_sum'],10
+16170,오늘의 날짜는?,['implementation'],1
+16430,제리와 톰,"['arithmetic', 'math']",1
+17103,골드바흐 파티션,"['math', 'number_theory', 'primality_test', 'sieve']",9
+17256,달달함이 넘쳐흘러,"['arithmetic', 'implementation', 'math']",1
+17388,와글와글 숭고한,['implementation'],2
+17478,재귀함수가 뭔가요?,"['implementation', 'recursion']",6
+18108,1998년생인 내가 태국에서는 2541년생?!,"['arithmetic', 'math']",1
+18110,solved.ac,"['implementation', 'math', 'sorting']",7
+18111,마인크래프트,"['bruteforcing', 'implementation']",9
+18115,카드 놓기,"['data_structures', 'deque']",8
+18258,큐 2,"['data_structures', 'queue']",7
+18870,좌표 압축,"['coordinate_compression', 'sorting']",9
+19532,수학은 비대면강의입니다,"['bruteforcing', 'math']",4
+20492,세금,"['arithmetic', 'math']",1
+20920,영단어 암기는 괴로워,"['data_structures', 'hash_set', 'sorting', 'string', 'tree_set']",8
+23825,SASA 모형을 만들어보자,"['arithmetic', 'math']",2
+24060,알고리즘 수업 - 병합 정렬 1,"['implementation', 'recursion', 'sorting']",8
+24262,알고리즘 수업 - 알고리즘의 수행 시간 1,"['implementation', 'simulation']",1
+24263,알고리즘 수업 - 알고리즘의 수행 시간 2,"['implementation', 'simulation']",2
+24264,알고리즘 수업 - 알고리즘의 수행 시간 3,"['arithmetic', 'implementation', 'math', 'simulation']",3
+24265,알고리즘 수업 - 알고리즘의 수행 시간 4,"['arithmetic', 'implementation', 'math', 'simulation']",3
+24266,알고리즘 수업 - 알고리즘의 수행 시간 5,"['implementation', 'math', 'simulation']",3
+24267,알고리즘 수업 - 알고리즘의 수행 시간 6,"['implementation', 'math', 'simulation']",4
+24313,알고리즘 수업 - 점근적 표기 1,['math'],6
+24416,알고리즘 수업 - 피보나치 수 1,"['dp', 'math']",5
+24444,알고리즘 수업 - 너비 우선 탐색 1,"['bfs', 'graphs', 'graph_traversal', 'sorting']",9
+24445,알고리즘 수업 - 너비 우선 탐색 2,"['bfs', 'graphs', 'graph_traversal', 'sorting']",9
+24479,알고리즘 수업 - 깊이 우선 탐색 1,"['dfs', 'graphs', 'graph_traversal', 'sorting']",9
+24480,알고리즘 수업 - 깊이 우선 탐색 2,"['dfs', 'graphs', 'graph_traversal', 'sorting']",9
+24511,queuestack,"['data_structures', 'deque', 'queue', 'stack']",8
+24723,녹색거탑,"['arithmetic', 'math']",2
+24900,한별 찍기,['implementation'],1
+25083,새싹,['implementation'],1
+25192,인사성 밝은 곰곰이,"['data_structures', 'hash_set', 'tree_set']",7
+25206,너의 평점은,"['implementation', 'math', 'string']",6
+25304,영수증,"['arithmetic', 'implementation', 'math']",2
+25305,커트라인,"['implementation', 'sorting']",4
+25314,코딩은 체육과목 입니다,['implementation'],1
+25501,재귀의 귀재,"['implementation', 'recursion', 'string']",4
+26069,붙임성 좋은 총총이,"['data_structures', 'hash_set', 'tree_set']",7
+27294,몇개고?,"['implementation', 'math']",1
+27323,직사각형,"['arithmetic', 'geometry', 'math']",1
+27433,팩토리얼 2,"['arithmetic', 'math']",1
+27866,문자와 문자열,"['implementation', 'string']",1
+27903,인생,[],0
+27972,악보는 거들 뿐,['greedy'],10
+28278,스택 2,"['data_structures', 'stack']",7
+28279,덱 2,"['data_structures', 'deque']",7
+28352,10!,"['arithmetic', 'implementation', 'math']",2
+28353,고양이 카페,"['greedy', 'sorting', 'two_pointer']",8
+28431,양말 짝 맞추기,['implementation'],2
+28432,끝말잇기,"['implementation', 'string']",6
+28453,Previous Level,"['case_work', 'implementation']",2
+28454,Gift Expire Date,"['implementation', 'string']",3
+28455,Union Maplestory,"['implementation', 'sorting']",4
+28701,세제곱의 합,"['arithmetic', 'implementation', 'math']",1
+28702,FizzBuzz,"['math', 'string']",5
+29715,비밀번호 찾기,"['combinatorics', 'math']",8
+29718,줄줄이 박수,"['prefix_sum', 'sliding_window']",8
+29719,브실이의 불침번 근무,"['combinatorics', 'math']",7
+29720,그래서 님 푼 문제 수가?,['math'],3
+29721,변형 체스 놀이 : 다바바(Dabbaba),"['data_structures', 'hash_set', 'implementation']",7
+29722,브실혜성,"['implementation', 'math']",3
+29724,🍎📦 '사과상자'에 들어있는 것은 무엇? 현금?,"['arithmetic', 'math']",5
+29729,가변 배열,"['implementation', 'simulation']",3
+29730,임스의 데일리 인증 스터디,"['parsing', 'sorting', 'string']",8
+29731,2033년 밈 투표,"['implementation', 'string']",1
+29736,브실이와 친구가 되고 싶어 🤸‍♀️,"['arithmetic', 'implementation', 'math']",2
+29738,"Goodbye, Code Jam",['implementation'],2
+29751,삼각형,"['arithmetic', 'geometry', 'math']",1
+29752,최장 스트릭,['implementation'],3
+30033,Rust Study,['implementation'],2
+30502,미역은 식물 아닌데요,['implementation'],5
+30987,하루 피부과,"['calculus', 'math']",6
+30991,ESC,"['calculus', 'dp', 'math']",10
+30993,자동차 주차,"['combinatorics', 'math']",6
+31432,소수가 아닌 수 3,"['ad_hoc', 'math', 'number_theory']",5
+31798,단원평가,"['arithmetic', 'math']",3
+31831,과민성 대장 증후군,['implementation'],3
+31832,팀명 정하기 2,"['implementation', 'string']",4
+31833,온데간데없을뿐더러,"['arithmetic', 'math', 'string']",3
