@@ -21,4 +21,8 @@ correlation_matrix = tags_df.corr()
 plt.figure(figsize=(15, 15))
 sns.heatmap(correlation_matrix, annot=False, cmap='Pastel1', fmt=".2f", cbar=False)  # cbar=False로 컬러 바를 삭제
 
+# 축 삭제: no ticks
+plt.xticks([])
+plt.yticks([])
+
 plt.show()
